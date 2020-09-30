@@ -42,3 +42,4 @@ with codecs.open('socialcops2.txt','w', encoding='utf-8') as f:
 # saveFile2.close()
 
 # print text
+# this code prints the hindi code
